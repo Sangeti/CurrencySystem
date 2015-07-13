@@ -2,7 +2,7 @@
 	<head>
 		<meta charset="utf-8" />
 		<title>USD/TZS</title>
-		<link href="css/bootstrap.min.css" type="text/css" rel="stylesheet" />
+		<link href="bootstrap.min.css" type="text/css" rel="stylesheet" />
 	</head>
 	<body>
 		<?php
@@ -87,8 +87,8 @@
 			</div>
 		</div>
 
-		<script src="js/jquery-1.10.2.min.js"></script>
-		<script src="js/bootstrap.min.js"></script>
+		<script src="jquery-1.10.2.min.js"></script>
+		<script src="bootstrap.min.js"></script>
 		<script type="text/javascript" src="https://www.google.com/jsapi?autoload={'modules':[{'name':'visualization','version':'1','packages':['annotationchart']}]}"></script>
     <script type='text/javascript'>
       google.load('visualization', '1', {'packages':['annotationchart']});
